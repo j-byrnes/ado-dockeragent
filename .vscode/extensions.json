@@ -1,0 +1,100 @@
+{
+  "recommendations": [
+    //required
+    "aaron-bond.better-comments",
+    "ban.spellright",
+    "mechatroner.rainbow-csv",
+    "mhutchie.git-graph",
+    "christian-kohler.path-intellisense",
+    "eamodio.gitlens",
+    "GrapeCity.gc-excelviewer",
+    "oderwat.indent-rainbow",
+    "reduckted.vscode-gitweblinks",
+    "vscode-icons-team.vscode-icons",
+    "usernamehw.errorlens",
+    "vivaxy.vscode-conventional-commits",
+    "shardulm94.trailing-spaces",
+    "stkb.rewrap",
+
+    //Remote vscode
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode-remote.remote-wsl",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+
+    // Live Share
+    "ms-vsliveshare.vsliveshare",
+
+    //Terraform
+    "4ops.terraform",
+
+    //Azure
+    "ms-azure-devops.azure-pipelines",
+    "ms-azuretools.azure-dev",
+    "ms-azuretools.vscode-azureappservice",
+    "ms-azuretools.vscode-azurecontainerapps",
+    "ms-azuretools.vscode-azurefunctions",
+    "ms-azuretools.vscode-azureresourcegroups",
+    "ms-azuretools.vscode-azurestaticwebapps",
+    "ms-azuretools.vscode-azurestorage",
+    "ms-azuretools.vscode-azureterraform",
+    "ms-azuretools.vscode-azurevirtualmachines",
+    "ms-azuretools.vscode-cosmosdb",
+    "ms-azuretools.vscode-docker",
+    //Markdown
+    "DavidAnson.vscode-markdownlint",
+    "yzhang.markdown-all-in-one",
+    "shd101wyy.markdown-preview-enhanced",
+
+    //Suggested
+    "adpyke.codesnap",
+    "alefragnani.Bookmarks",
+    "axetroy.vscode-whatchanged",
+    "johnpapa.vscode-peacock",
+    "chouzz.vscode-better-align",
+    "GEEKiDoS.vdf",
+    //Github
+    "GitHub.copilot",
+    "GitHub.copilot-labs",
+    "GitHub.remotehub",
+    "GitHub.vscode-pull-request-github",
+    //Dendron
+    "dendron.dendron",
+    "dendron.dendron-markdown-shortcuts",
+    "dendron.dendron-paste-image",
+
+    //xml
+    "DotJoshJohnson.xml",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "vincaslt.highlight-matching-tag",
+
+    //Windows Registry
+    "ionutvmi.reg",
+
+    //HTML/CSS/Web
+    "ecmel.vscode-html-css",
+    "kamikillerto.vscode-colorize",
+    "pranaygp.vscode-css-peek",
+    "ritwickdey.LiveServer",
+
+    //YAML
+    "redhat.vscode-yaml",
+
+    //API
+    "rangav.vscode-thunder-client",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+
+    //AWS
+    "SebastianBille.iam-legend",
+
+    //Python
+    "ms-python.python",
+    "njpwerner.autodocstring",
+    "kevinrose.vsc-python-indent",
+    "cstrap.python-snippets",
+    "VisualStudioExptTeam.vscodeintellicode",
+
+  ]
+}
