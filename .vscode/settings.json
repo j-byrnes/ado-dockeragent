@@ -1,4 +1,17 @@
 {
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "git.autofetch": true,
+  "redhat.telemetry.enabled": false,
+  "editor.tabSize": 2,
+    "editor.rulers": [
+        100,
+        110
+  ],
+  "editor.renderWhitespace": "all",
+  "git.enableSmartCommit": true,
+  "editor.inlineSuggest.enabled": true,
+  "terminal.integrated.enableMultiLinePasteWarning": false,
   "powershell.scriptAnalysis.settingsPath": "PSScriptAnalyzerSettings.psd1",
   "powershell.scriptAnalysis.enable": true
 }
